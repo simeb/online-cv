@@ -50,13 +50,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-I am a Data Scientist with 10+ years of experience of working with data and Machine Learning.
-The first have of my career, I worked as an analyst in different roles in the energy sector after which I 
-started to move into Data Science. Building on a solid background in mathematical modeling, 
-I have acquired a broad skill-set in programming, data management and application knowledge in different commercial 
-and industrial domains, such as energy markets and pump systems. 
-Together with my strong communication skills, this allows me to bridge the gap between domain experts 
-and software developers in order to turn data into value for the customer.
+        I am a Data Scientist with 10+ years of experience of working with data and Machine Learning.
+        The first have of my career, I worked as an analyst in different roles in the energy sector after which I 
+        started to move into Data Science. Building on a solid background in mathematical modeling, 
+        I have acquired a broad skill-set in programming, data management and application knowledge in different commercial 
+        and industrial domains, such as energy markets and pump systems. 
+        Together with my strong communication skills, this allows me to bridge the gap between domain experts 
+        and software developers in order to turn data into value for the customer.
 education:
     - degree: MSc in Applied Mathematics
       university: University of Technology, Vienna.
